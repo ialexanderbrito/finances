@@ -8,7 +8,8 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@expo-google-fonts/comfortaa": "^0.1.0",
+    "@expo-google-fonts/open-sans": "^0.1.0",
+    "@expo/vector-icons": "^10.2.1",
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/native": "^5.8.9",
     "@react-navigation/stack": "^5.12.6",
@@ -26,6 +27,7 @@
     "react-native-screens": "~2.10.1",
     "react-native-snap-carousel": "^3.9.1",
     "react-native-web": "~0.13.12",
+    "rn-sliding-up-panel": "^2.4.3",
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
@@ -33,6 +35,7 @@
     "@types/react": "~16.9.35",
     "@types/react-dom": "~16.9.8",
     "@types/react-native": "~0.63.2",
+    "@types/react-native-snap-carousel": "^3.8.2",
     "@types/styled-components": "^5.1.4",
     "@typescript-eslint/eslint-plugin": "^4.7.0",
     "@typescript-eslint/parser": "^4.7.0",
