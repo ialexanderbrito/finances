@@ -1,9 +1,9 @@
 export default {
-  primary: '#000014',
-  black: '#efeff1',
-  gray: '#7f7f8b',
-  tag: '#323235',
-  green: '#14b866',
-  red: '#ec1414',
-  purple: '#bf94ff',
+  primary: '#000000',
+  black: '#eee',
+  dark: '#161616',
+  gray: '#F4F5FA',
+  green: '#9CCB4B',
+  blue: '#7AAFFF',
+  bluedark: '#0063F5',
 };
